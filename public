@@ -1,9 +1,0 @@
-<script>start("d:\\New folder\\public\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("browser-app.js","browser-app.js",0,2422,"2.4 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("edit-task.js","edit-task.js",0,1898,"1.9 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("favicon.ico","favicon.ico",0,15406,"15.0 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("index.html","index.html",0,1514,"1.5 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("main.css","main.css",0,7941,"7.8 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("normalize.css","normalize.css",0,6142,"6.0 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
-<script>addRow("task.html","task.html",0,1636,"1.6 kB",1682881193,"4/30/23, 11:59:53 AM");</script>
